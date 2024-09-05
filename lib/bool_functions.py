@@ -1,2 +1,3 @@
 def return_true():
-    return False
+    # Return True as required
+    return True
